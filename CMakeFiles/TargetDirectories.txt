@@ -1,0 +1,14 @@
+/home/ubuntu/DriverlessCarChallenge_MTARacer-master/round_1/DriverlessCar/carControl/src/0.3/traffic_detection/CMakeFiles/traffic-detection.dir
+/home/ubuntu/DriverlessCarChallenge_MTARacer-master/round_1/DriverlessCar/carControl/src/0.3/peripheral_driver/i2c/CMakeFiles/i2c-pwm.dir
+/home/ubuntu/DriverlessCarChallenge_MTARacer-master/round_1/DriverlessCar/carControl/src/0.3/traffic_detection/CMakeFiles/test-traffic-detection.dir
+/home/ubuntu/DriverlessCarChallenge_MTARacer-master/round_1/DriverlessCar/carControl/src/0.3/stereo_vision/CMakeFiles/test-kinect-cv2-2.dir
+/home/ubuntu/DriverlessCarChallenge_MTARacer-master/round_1/DriverlessCar/carControl/src/0.3/lane_detection/CMakeFiles/vanishing-point.dir
+/home/ubuntu/DriverlessCarChallenge_MTARacer-master/round_1/DriverlessCar/carControl/src/0.3/lane_detection/CMakeFiles/test-vanishing-point.dir
+/home/ubuntu/DriverlessCarChallenge_MTARacer-master/round_1/DriverlessCar/carControl/src/0.3/HAL/CMakeFiles/HAL.dir
+/home/ubuntu/DriverlessCarChallenge_MTARacer-master/round_1/DriverlessCar/carControl/src/0.3/openni2/CMakeFiles/openni2.dir
+/home/ubuntu/DriverlessCarChallenge_MTARacer-master/round_1/DriverlessCar/carControl/src/0.3/CMakeFiles/test-autocar.dir
+/home/ubuntu/DriverlessCarChallenge_MTARacer-master/round_1/DriverlessCar/carControl/src/0.3/CMakeFiles/test-steering-coef.dir
+/home/ubuntu/DriverlessCarChallenge_MTARacer-master/round_1/DriverlessCar/carControl/src/0.3/stereo_vision/CMakeFiles/kinect-cv2.dir
+/home/ubuntu/DriverlessCarChallenge_MTARacer-master/round_1/DriverlessCar/carControl/src/0.3/stereo_vision/CMakeFiles/test-kinect-cv2.dir
+/home/ubuntu/DriverlessCarChallenge_MTARacer-master/round_1/DriverlessCar/carControl/src/0.3/peripheral_driver/uart/CMakeFiles/uart.dir
+/home/ubuntu/DriverlessCarChallenge_MTARacer-master/round_1/DriverlessCar/carControl/src/0.3/peripheral_driver/uart/CMakeFiles/test-uart.dir
